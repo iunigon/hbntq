@@ -1,11 +1,23 @@
 ---
+date: 2022-08-05T20:19:05.000Z
 layout: post
 title: "Driving Home" by J. Raban
-date: 2022-08-05 20:19
-author: nnillat1
-comments: true
-categories: [2022 challenge, 2022: Journeys, book review, Books, Driving Home, English, essays, featured, J. Raban, journeys, reviews, short read, writing]
+subtitle: '2022 — “Journeys Read, Review, Write”'
+description: >-
+  This is my review of “Driving Home” by Jonathan Raban as part of my 2022 — “Journeys Read, Review, Write” series.
+image: >-
+  https://m.media-amazon.com/images/I/512lR-41dkL.jpg
+optimized_image: >-
+  https://m.media-amazon.com/images/I/512lR-41dkL.jpg
+category: Book review
+tags:
+  - books
+  - reviews
+  - essays
+author: Nnillat
+paginate: true
 ---
+
 <!-- wp:paragraph -->
 <p>This is my review of "Driving Home" by Jonathan Raban as part of my 2022 "Journeys: Read, Review, Write" series.</p>
 <!-- /wp:paragraph -->
@@ -52,14 +64,6 @@ categories: [2022 challenge, 2022: Journeys, book review, Books, Driving Home, E
 
 <!-- wp:paragraph -->
 <p>It is difficult to avoid losing oneself in the sea when one lives in Seattle. With Puget Sound right outside your door and the Pacific Ocean only a short drive away, it's easy to lose yourself in thoughts of what lies beyond the horizon. Even while I like the convenience and quickness of flying, I can't help but picture living on the open sea, where every location seems both close by and too far away to fully comprehend at the same time. I find this dissonance to be almost as captivating as the start of a hiking trail.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":3} -->
-<h3 id="the-left-coast">The "Left" Coast</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Seattle is a bastion of liberalism. Political realities are being played out within its walls right now. On a map of the nation, we can observe blue zones surrounding the largest cities and red-hued rural areas. This trend can be seen in the conflict between Seattle and the remainder of Washington state. You can more strongly sense this struggle of wills as you get farther into the suburbs. Here, being both morally liberal and fiscally conservative takes on genuine significance. This is just another reason why I adore this city, in my opinion. There are arguments everywhere, and as an Oklahoman guy, I tend to go with the majority.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
