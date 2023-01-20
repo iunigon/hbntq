@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: "Driving Home" by J. Raban
+title: "Driving Home" by J. Raban
 date: 2022-08-05 20:19
 author: nnillat1
 comments: true

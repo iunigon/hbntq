@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Critique de livre: "Mission Pôle Nord" par S. Blitman
+title: "Mission Pôle Nord" par S. Blitman
 date: 2022-08-06 08:54
 author: nnillat1
 comments: true

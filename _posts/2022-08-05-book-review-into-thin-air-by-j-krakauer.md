@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: "Into Thin Air" by J. Krakauer
+title: "Into Thin Air" by J. Krakauer
 date: 2022-08-05 19:22
 author: nnillat1
 comments: true

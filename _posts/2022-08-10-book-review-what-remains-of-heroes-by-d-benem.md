@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: "What Remains of Heroes" by D. Benem
+title: "What Remains of Heroes" by D. Benem
 date: 2022-08-10 12:04
 author: nnillat1
 comments: true

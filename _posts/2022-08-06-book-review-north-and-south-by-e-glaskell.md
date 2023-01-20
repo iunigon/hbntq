@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: "North and South" by E. Glaskell
+title: "North and South" by E. Glaskell
 date: 2022-08-06 13:27
 author: nnillat1
 comments: true

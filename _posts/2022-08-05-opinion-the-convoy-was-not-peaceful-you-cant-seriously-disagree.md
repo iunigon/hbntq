@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Opinion: The convoy was not peaceful. You can't seriously disagree.
+title: OP-ED — The convoy was not peaceful. You can't seriously disagree.
 date: 2022-08-05 16:05
 author: nnillat1
 comments: true

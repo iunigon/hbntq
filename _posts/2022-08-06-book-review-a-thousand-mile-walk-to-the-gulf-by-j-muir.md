@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: "A Thousand-Mile Walk to the Gulf" by J. Muir
+title: "A Thousand-Mile Walk to the Gulf" by J. Muir
 date: 2022-08-06 23:00
 author: nnillat1
 comments: true

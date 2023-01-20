@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: "Walking the Amazon" by E. Stafford
+title: "Walking the Amazon" by E. Stafford
 date: 2022-08-05 18:56
 author: nnillat1
 comments: true

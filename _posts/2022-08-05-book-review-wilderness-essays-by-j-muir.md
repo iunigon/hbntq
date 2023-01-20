@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: "Wilderness Essays" by J. Muir
+title: "Wilderness Essays" by J. Muir
 date: 2022-08-05 22:35
 author: nnillat1
 comments: true

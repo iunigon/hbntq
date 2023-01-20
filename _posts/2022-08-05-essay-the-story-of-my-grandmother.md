@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Essay: The story of my grandmother
+title: The story of my grandmother
 date: 2022-08-05 17:10
 author: nnillat1
 comments: true

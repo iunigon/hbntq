@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: "Wild by Nature" by S. Marquis
+title: "Wild by Nature" by S. Marquis
 date: 2022-08-06 09:23
 author: nnillat1
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book review: "Tracks" by R. Davidson
+title: "Tracks" by R. Davidson
 date: 2022-08-05 16:49
 author: nnillat1
 comments: true
