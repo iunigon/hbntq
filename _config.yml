@@ -3,7 +3,7 @@ name: 'HbNtq'
 description: 'Essays, reviews, opinions, and more from topics around the world.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: ''
+baseurl: 'https://t.unigon.net'
 email: 'taq@unigon.net'
 
 include: ["_pages"]
