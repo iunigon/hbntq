@@ -1,4 +1,3 @@
-
 ---
 date: 2022-08-05T22:35:05.000Z
 layout: post
@@ -7,8 +6,6 @@ subtitle: '2022 — “Journeys Read, Review, Write”'
 description: >-
   This is my review of “Wilderness Essays” by Jonathan Raban as part of my 2022 — “Journeys Read, Review, Write” series.
 image: >-
-  https://m.media-amazon.com/images/I/713hYOpb4cL.jpg
-optimized_image: >-
   https://m.media-amazon.com/images/I/713hYOpb4cL.jpg
 category: Book review
 tags:

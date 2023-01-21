@@ -1,14 +1,5 @@
 ---
-layout: post
-title: "Tracks" by R. Davidson
-date: 2022-08-05 16:49
-author: nnillat1
-comments: true
-categories: [2022 challenge, 2022: Journeys, book review, Books, English, essays, featured, journeys, r. davidson, reviews, short read, tracks, writing]
----
-
----
-date: 2022-08-05T16:49:05.000Z
+date: 2019-05-16T23:48:05.000Z
 layout: post
 title: "Tracks" by R. Davidson
 subtitle: '2022 — “Journeys Read, Review, Write”'

@@ -7,8 +7,6 @@ description: >-
   This is my review of “Walking the Amazon” by Ed Stafford as part of my 2022 — “Journeys Read, Review, Write” series.
 image: >-
   https://m.media-amazon.com/images/I/512lR-41dkL.jpg
-optimized_image: >-
-  https://m.media-amazon.com/images/I/512lR-41dkL.jpg
 category: Book review
 tags:
   - books
