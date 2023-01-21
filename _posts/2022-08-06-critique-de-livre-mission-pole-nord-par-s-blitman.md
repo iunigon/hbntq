@@ -1,7 +1,7 @@
 ---
 date: 2022-08-05T20:19:05.000Z
 layout: post
-title: "Mission Pôle Nord" par S. Blitman
+title: Mission Pôle Nord par S. Blitman
 subtitle: 'Critique de livre'
 description: >-
   Ceci est ma critique de "Mission Pôle Nord" de Sophie Blitman.

@@ -1,8 +1,8 @@
 ---
 date: 2022-08-05T20:19:22.000Z
 layout: post
-title: "Into Thin Air" by J. Krakauer
-subtitle: '2022 — “Journeys Read, Review, Write”'
+title: Into Thin Air by J. Krakauer
+subtitle: '2022 — Journeys Read, Review, Write'
 description: >-
   This is my review of "Into Thin Air" by Jon Krakauer as part of my 2022 — “Journeys Read, Review, Write” series.
 image: >-

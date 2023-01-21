@@ -1,8 +1,8 @@
 ---
 date: 2022-08-06T09:19:05.000Z
 layout: post
-title: "Wild by Nature" by S. Marquis
-subtitle: '2022 — “Journeys Read, Review, Write”'
+title: Wild by Nature by S. Marquis
+subtitle: '2022 — Journeys Read, Review, Write'
 description: >-
   This is my review of "Wild by Nature" by Sarah Marquis as part of my 2022 — “Journeys Read, Review, Write” series.
 image: >-

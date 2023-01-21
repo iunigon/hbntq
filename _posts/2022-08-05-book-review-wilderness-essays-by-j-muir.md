@@ -1,8 +1,8 @@
 ---
 date: 2022-08-05T22:35:05.000Z
 layout: post
-title: "Wilderness Essays" by J. Muir
-subtitle: '2022 — “Journeys Read, Review, Write”'
+title: Wilderness Essays by J. Muir
+subtitle: '2022 — Journeys Read, Review, Write'
 description: >-
   This is my review of “Wilderness Essays” by Jonathan Raban as part of my 2022 — “Journeys Read, Review, Write” series.
 image: >-

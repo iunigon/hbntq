@@ -1,7 +1,7 @@
 ---
 date: 2022-08-05T20:19:05.000Z
 layout: post
-title: "What Remains of Heroes" by D. Benem
+title: What Remains of Heroes by D. Benem
 subtitle: 'Fantasy'
 description: >-
   This is my review of the "hardcore" fantasy novel "What Remains of Heroes" by David Benem, published in 2015 as a seemingly "traditional" fantasy-hero book.

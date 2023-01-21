@@ -1,7 +1,7 @@
 ---
 date: 2022-08-05T20:19:05.000Z
 layout: post
-title: "Driving Home" by J. Raban
+title: Driving Home by J. Raban
 subtitle: '2022 — “Journeys Read, Review, Write”'
 description: >-
   This is my review of “Driving Home” by Jonathan Raban as part of my 2022 — “Journeys Read, Review, Write” series.

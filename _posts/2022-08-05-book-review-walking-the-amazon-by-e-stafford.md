@@ -1,8 +1,8 @@
 ---
 date: 2022-08-05T20:18:56.000Z
 layout: post
-title: "Walking the Amazon" by E. Stafford
-subtitle: '2022 — “Journeys Read, Review, Write”'
+title: Walking the Amazon by E. Stafford
+subtitle: '2022 — Journeys Read, Review, Write'
 description: >-
   This is my review of “Walking the Amazon” by Ed Stafford as part of my 2022 — “Journeys Read, Review, Write” series.
 image: >-

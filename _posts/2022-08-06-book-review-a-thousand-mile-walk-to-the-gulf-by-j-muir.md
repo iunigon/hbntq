@@ -1,8 +1,8 @@
 ---
 date: 2022-08-06T23:19:05.000Z
 layout: post
-title: "A Thousand-Mile Walk to the Gulf" by J. Muir
-subtitle: '2022 — “Journeys Read, Review, Write”'
+title: A Thousand-Mile Walk to the Gulf by J. Muir
+subtitle: '2022 — Journeys Read, Review, Write'
 description: >-
   This is my review of "A Thousand-Mile Walk to the Gulf" by J. Muir as part of my 2022 — “Journeys Read, Review, Write” series.
 image: >-
