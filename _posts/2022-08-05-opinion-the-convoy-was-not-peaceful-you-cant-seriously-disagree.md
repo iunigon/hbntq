@@ -3,7 +3,7 @@ layout: post
 title:  "The 'Freedom Convoy' was not peaceful. You can't seriously disagree."
 author: tallinn
 categories: [Opinion, Politics]
-image: https://cdn.vox-cdn.com/thumbor/plO2jFKQhePeX88srtjtr3V69-I=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23233201/GettyImages_1238297753.jpg
+image: https://cdn.unigon.net/img/sites/taq/hbntq/posts/freedom_convoy.jpg
 tags: [sticky, politics, opinion, essays]
 ---
 
