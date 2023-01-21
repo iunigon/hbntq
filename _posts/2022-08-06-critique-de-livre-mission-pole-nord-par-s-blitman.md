@@ -1,13 +1,32 @@
 ---
+date: 2022-08-05T20:19:05.000Z
+layout: post
+title: "Mission Pôle Nord" par S. Blitman
+subtitle: 'Critique de livre'
+description: >-
+  Ceci est ma critique de "Mission Pôle Nord" de Sophie Blitman.
+image: >-
+  https://images.leslibraires.ca/books/9782215136750/front/9782215136750_large.jpg
+category: Book review
+tags:
+  - books
+  - reviews
+  - essays
+  - francais
+author: Tallinn
+paginate: true
+---
+
+---
 layout: post
 title: "Mission Pôle Nord" par S. Blitman
 date: 2022-08-06 08:54
 author: nnillat1
 comments: true
 categories: [2022 challenge, book review, Books, essays, featured, Français, Full analysis, Mission Pôle Nord, reviews, S. Blitman, School-original, writing]
----
+
 <!-- wp:paragraph -->
-<p>Ceci est ma critique de "Mission Pôle Nord" de Sophie Blitman comme partie de l'école.</p>
+<p>Ceci est ma critique de "Mission Pôle Nord" de Sophie Blitman.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:more -->

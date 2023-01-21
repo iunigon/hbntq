@@ -1,10 +1,19 @@
 ---
+date: 2022-08-05T20:19:22.000Z
 layout: post
 title: "Into Thin Air" by J. Krakauer
-date: 2022-08-05 19:22
-author: nnillat1
-comments: true
-categories: [2022 challenge, 2022: Journeys, book review, Books, English, essays, featured, into thin air, j. krakauer, journeys, reviews, short read, writing]
+subtitle: '2022 — “Journeys Read, Review, Write”'
+description: >-
+  This is my review of "Into Thin Air" by Jon Krakauer as part of my 2022 — “Journeys Read, Review, Write” series.
+image: >-
+  https://groundedcuriosity.com/wp-content/uploads/2020/10/613xliMRGmL.jpg
+category: Book review
+tags:
+  - books
+  - reviews
+  - essays
+author: Tallinn
+paginate: true
 ---
 <!-- wp:table-of-contents {"headings":[{"content":"Introduction","level":3,"link":"https://nnillathub.wordpress.com/2022/08/05/book-review-into-thin-air-by-j-krakauer/#introduction"},{"content":"Spoiling nature","level":3,"link":"https://nnillathub.wordpress.com/2022/08/05/book-review-into-thin-air-by-j-krakauer/#preparation"},{"content":"When things go wrong","level":3,"link":"https://nnillathub.wordpress.com/2022/08/05/book-review-into-thin-air-by-j-krakauer/#when-things-go-wrong"},{"content":"The Violence of Nature","level":3,"link":"https://nnillathub.wordpress.com/2022/08/05/book-review-into-thin-air-by-j-krakauer/#the-violence-of-nature"},{"content":"Overcoming Yourself","level":3,"link":"https://nnillathub.wordpress.com/2022/08/05/book-review-into-thin-air-by-j-krakauer/#overcoming-yourself"}]} -->
 <ol><li><a class="wp-block-table-of-contents__entry" href="https://nnillathub.wordpress.com/2022/08/05/book-review-into-thin-air-by-j-krakauer/#introduction">Introduction</a></li><li><a class="wp-block-table-of-contents__entry" href="https://nnillathub.wordpress.com/2022/08/05/book-review-into-thin-air-by-j-krakauer/#preparation">Spoiling nature</a></li><li><a class="wp-block-table-of-contents__entry" href="https://nnillathub.wordpress.com/2022/08/05/book-review-into-thin-air-by-j-krakauer/#when-things-go-wrong">When things go wrong</a></li><li><a class="wp-block-table-of-contents__entry" href="https://nnillathub.wordpress.com/2022/08/05/book-review-into-thin-air-by-j-krakauer/#the-violence-of-nature">The Violence of Nature</a></li><li><a class="wp-block-table-of-contents__entry" href="https://nnillathub.wordpress.com/2022/08/05/book-review-into-thin-air-by-j-krakauer/#overcoming-yourself">Overcoming Yourself</a></li></ol>

@@ -1,10 +1,20 @@
 ---
+date: 2022-08-05T20:17:10.000Z
 layout: post
-title: The story of my grandmother
-date: 2022-08-05 17:10
-author: nnillat1
-comments: true
-categories: [English, essay, family, featured, interview, Interviews, Narrative, Other essays, Personal, school, School-original, story of...]
+title: The story of their grandmother
+subtitle: 'A narrative essay.'
+description: >-
+  The narrative story of their grandmother.
+image: >-
+  https://nnillathub.files.wordpress.com/2022/08/plane_1950_stockimage1.webp?w=640&h=425&crop=1&zoom=2
+category: Interview
+tags:
+  - essays
+  - interview
+  - story
+  - narrative
+author: Tallinn
+paginate: true
 ---
 <!-- wp:paragraph -->
 <p>This is the life story of my grandmother, written with information from an interview with her.</p>

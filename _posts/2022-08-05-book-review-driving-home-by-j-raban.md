@@ -7,14 +7,12 @@ description: >-
   This is my review of “Driving Home” by Jonathan Raban as part of my 2022 — “Journeys Read, Review, Write” series.
 image: >-
   https://m.media-amazon.com/images/I/512lR-41dkL.jpg
-optimized_image: >-
-  https://m.media-amazon.com/images/I/512lR-41dkL.jpg
 category: Book review
 tags:
   - books
   - reviews
   - essays
-author: Nnillat
+author: Tallinn
 paginate: true
 ---
 

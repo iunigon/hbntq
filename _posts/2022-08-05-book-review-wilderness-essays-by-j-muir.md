@@ -1,10 +1,22 @@
+
 ---
+date: 2022-08-05T22:35:05.000Z
 layout: post
 title: "Wilderness Essays" by J. Muir
-date: 2022-08-05 22:35
-author: nnillat1
-comments: true
-categories: [2022 challenge, 2022: Journeys, book review, Books, English, essays, featured, John Muir, journeys, Pre-1930, reviews, short read, Wilderness Essays, writing]
+subtitle: '2022 — “Journeys Read, Review, Write”'
+description: >-
+  This is my review of “Wilderness Essays” by Jonathan Raban as part of my 2022 — “Journeys Read, Review, Write” series.
+image: >-
+  https://m.media-amazon.com/images/I/713hYOpb4cL.jpg
+optimized_image: >-
+  https://m.media-amazon.com/images/I/713hYOpb4cL.jpg
+category: Book review
+tags:
+  - books
+  - reviews
+  - essays
+author: Tallinn
+paginate: true
 ---
 <!-- wp:table-of-contents {"headings":[{"content":"","level":2,"link":null}]} -->
 <ol></ol>

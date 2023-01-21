@@ -1,10 +1,21 @@
 ---
+date: 2022-08-05T20:19:05.000Z
 layout: post
-title: OP-ED — The convoy was not peaceful. You can't seriously disagree.
-date: 2022-08-05 16:05
-author: nnillat1
-comments: true
-categories: [Canada, canadian politics, English, featured, freedom convoy, Opinion/editorials, Politics, protest]
+title: The "Freedom Convoy" was not peaceful. You can't seriously disagree.
+subtitle: "But some people do."
+description: >-
+  From assault to vandalism to blatant display of Nazi insignia, you can't genuinely say the occupation was peaceful.
+image: >-
+  https://cdn.vox-cdn.com/thumbor/plO2jFKQhePeX88srtjtr3V69-I=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23233201/GettyImages_1238297753.jpg
+optimized_image: >-
+  https://cdn.vox-cdn.com/thumbor/plO2jFKQhePeX88srtjtr3V69-I=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23233201/GettyImages_1238297753.jpg
+category: Opinion
+tags:
+  - politics
+  - opinion
+  - essays
+author: Tallinn
+paginate: true
 ---
 <!-- wp:paragraph -->
 <p>The so-called "Freedom Convoy" wasn't for freedom, and it certainly was not a "peaceful protest." Here's a megalist of reasons why.</p>

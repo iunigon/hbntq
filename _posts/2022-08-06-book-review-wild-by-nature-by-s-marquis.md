@@ -1,11 +1,21 @@
 ---
+date: 2022-08-06T09:19:05.000Z
 layout: post
 title: "Wild by Nature" by S. Marquis
-date: 2022-08-06 09:23
-author: nnillat1
-comments: true
-categories: [2022 challenge, 2022: Journeys, book review, Books, English, essays, featured, journeys, reviews, S. Marquis, short read, Wild by Nature, writing]
+subtitle: '2022 — “Journeys Read, Review, Write”'
+description: >-
+  This is my review of "Wild by Nature" by Sarah Marquis as part of my 2022 — “Journeys Read, Review, Write” series.
+image: >-
+  https://images.renaud-bray.com/images/PG/1970/1970329-gf.jpg?404=404RB.gif
+category: Book review
+tags:
+  - books
+  - reviews
+  - essays
+author: Tallinn
+paginate: true
 ---
+
 <!-- wp:paragraph -->
 <p>This is my review of "Wild by Nature" by Sarah Marquis as part of my 2022 "Journeys: Read, Review, Write" series.</p>
 <!-- /wp:paragraph -->

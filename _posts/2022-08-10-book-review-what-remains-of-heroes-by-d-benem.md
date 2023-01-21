@@ -1,11 +1,29 @@
 ---
+date: 2022-08-05T20:19:05.000Z
+layout: post
+title: "What Remains of Heroes" by D. Benem
+subtitle: 'Fantasy'
+description: >-
+  This is my review of the "hardcore" fantasy novel "What Remains of Heroes" by David Benem, published in 2015 as a seemingly "traditional" fantasy-hero book.
+image: >-
+  https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440000430i/25389017.jpg
+category: Book review
+tags:
+  - books
+  - reviews
+  - essays
+author: Tallinn
+paginate: true
+---
+
+---
 layout: post
 title: "What Remains of Heroes" by D. Benem
 date: 2022-08-10 12:04
 author: nnillat1
 comments: true
 categories: [book review, Books, David Benem, English, essays, Fantasy, featured, Full analysis, long, Post-2015, reviews, self pub, self-published, short read, What Remains of Heroes, writing]
----
+
 <!-- wp:paragraph -->
 <p>This is my review of the "hardcore" fantasy novel "<em>What Remains of Heroes</em>" by David Benem, published in 2015 as a seemingly "traditional" fantasy-hero book.</p>
 <!-- /wp:paragraph -->

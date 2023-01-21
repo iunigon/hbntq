@@ -1,11 +1,23 @@
 ---
+date: 2022-08-05T20:18:56.000Z
 layout: post
 title: "Walking the Amazon" by E. Stafford
-date: 2022-08-05 18:56
-author: nnillat1
-comments: true
-categories: [2022 challenge, 2022: Journeys, book review, Books, e. stafford, English, essays, featured, journeys, reviews, short read, walking the amazon, writing]
+subtitle: '2022 — “Journeys Read, Review, Write”'
+description: >-
+  This is my review of “Walking the Amazon” by Ed Stafford as part of my 2022 — “Journeys Read, Review, Write” series.
+image: >-
+  https://m.media-amazon.com/images/I/512lR-41dkL.jpg
+optimized_image: >-
+  https://m.media-amazon.com/images/I/512lR-41dkL.jpg
+category: Book review
+tags:
+  - books
+  - reviews
+  - essays
+author: Tallinn
+paginate: true
 ---
+
 <!-- wp:paragraph -->
 <p>This is my review of the book "Walking the Amazon" by Ed Strafford as part of my 2022 "Journeys: Read, Review, Write" series.</p>
 <!-- /wp:paragraph -->

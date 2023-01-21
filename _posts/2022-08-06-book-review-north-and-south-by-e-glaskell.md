@@ -1,11 +1,29 @@
 ---
+date: 2022-08-06T13:27:05.000Z
+layout: post
+title: "North and South" by E. Glaskell
+subtitle: '2022 — “Journeys Read, Review, Write”'
+description: >-
+  This is my review of "North and South" by E. Glaskell as part of my 2022 — “Journeys Read, Review, Write” series.
+image: >-
+  https://res.cloudinary.com/bloomsbury-atlas/image/upload/w_568,c_scale/jackets/9781847497161.jpg
+category: Book review
+tags:
+  - books
+  - reviews
+  - essays
+author: Tallinn
+paginate: true
+---
+
+---
 layout: post
 title: "North and South" by E. Glaskell
 date: 2022-08-06 13:27
 author: nnillat1
 comments: true
 categories: [1800s, Antique, book review, Books, E. Glaskell, Elizabeth Glaskell, English, essays, featured, full review, Historical, history, industrial revolution, Long-read, North and South, Pre-1930, reviews, Social justice, writing]
----
+
 <!-- wp:paragraph -->
 <p>This is my review of the historically-based social novel "North and South" by Elizabeth Glaskell, published in 1884 during the times of the Industrial Revolution.</p>
 <!-- /wp:paragraph -->

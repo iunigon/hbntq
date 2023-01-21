@@ -6,6 +6,24 @@ author: nnillat1
 comments: true
 categories: [2022 challenge, 2022: Journeys, book review, Books, English, essays, featured, journeys, r. davidson, reviews, short read, tracks, writing]
 ---
+
+---
+date: 2022-08-05T16:49:05.000Z
+layout: post
+title: "Tracks" by R. Davidson
+subtitle: '2022 — “Journeys Read, Review, Write”'
+description: >-
+  This is my review of “Tracks” by Robyn Davidson as part of my 2022 — “Journeys Read, Review, Write” series.
+image: >-
+  https://cumberland.nccardinal.org/opac/extras/ac/jacket/large/r/4109543
+category: Book review
+tags:
+  - books
+  - reviews
+  - essays
+author: Tallinn
+paginate: true
+---
 <!-- wp:table-of-contents {"headings":[{"content":"Introduction","level":3,"link":"https://nnillathub.wordpress.com/2022/08/05/book-review-tracks-by-r-davidson/#introduction"},{"content":"Wanting to Quit","level":3,"link":"https://nnillathub.wordpress.com/2022/08/05/book-review-tracks-by-r-davidson/#wanting-to-quit"},{"content":"Attempting to Describe Nature","level":3,"link":"https://nnillathub.wordpress.com/2022/08/05/book-review-tracks-by-r-davidson/#attempting-to-describe-nature"},{"content":"Conclusion","level":3,"link":"https://nnillathub.wordpress.com/2022/08/05/book-review-tracks-by-r-davidson/#conclusion"}]} -->
 <ol><li><a class="wp-block-table-of-contents__entry" href="https://nnillathub.wordpress.com/2022/08/05/book-review-tracks-by-r-davidson/#introduction">Introduction</a></li><li><a class="wp-block-table-of-contents__entry" href="https://nnillathub.wordpress.com/2022/08/05/book-review-tracks-by-r-davidson/#wanting-to-quit">Wanting to Quit</a></li><li><a class="wp-block-table-of-contents__entry" href="https://nnillathub.wordpress.com/2022/08/05/book-review-tracks-by-r-davidson/#attempting-to-describe-nature">Attempting to Describe Nature</a></li><li><a class="wp-block-table-of-contents__entry" href="https://nnillathub.wordpress.com/2022/08/05/book-review-tracks-by-r-davidson/#conclusion">Conclusion</a></li></ol>
 <!-- /wp:table-of-contents -->

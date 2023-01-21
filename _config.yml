@@ -1,7 +1,7 @@
 # Site Settings
-name: TAQHub
-title: TAQHub / UNIGON
-description: From news, to tutorials, to editorials and book reviews, TAQHub is a great source for everything, from casual reading to intense debate.
+name: HbNtq
+title: HbNtq / UNIGON
+description: Essays, reviews, opinions, and more from topics around the world.
 tags:
   - blog
   - template
@@ -20,7 +20,7 @@ menu:
     url: /feed.xml
 email: taq@unigon.net
 # See: https://disqus.com/
-disqus_username: disqus_username
+# disqus_username: disqus_username
 # Contact Form Setting
 # See: https://formspree.io/
 formspree_form_id: formspree_form_id
@@ -42,7 +42,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "t.unigon.net" # the base hostname & protocol for your site
+url: "https://t.unigon.net" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
