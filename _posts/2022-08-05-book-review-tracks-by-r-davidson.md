@@ -1,8 +1,8 @@
 ---
 date: 2019-05-16T23:48:05.000Z
 layout: post
-title: "Tracks" by R. Davidson
-subtitle: '2022 — “Journeys Read, Review, Write”'
+title: Tracks by R. Davidson
+subtitle: '2022 — Journeys Read, Review, Write'
 description: >-
   This is my review of “Tracks” by Robyn Davidson as part of my 2022 — “Journeys Read, Review, Write” series.
 image: >-
