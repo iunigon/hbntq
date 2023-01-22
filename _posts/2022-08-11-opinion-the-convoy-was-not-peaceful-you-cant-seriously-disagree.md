@@ -9,7 +9,7 @@ image: >-
   https://cdn.unigon.net/img/sites/taq/hbntq/posts/freedom_convoy.jpg
 optimized_image: >-
   https://cdn.unigon.net/img/sites/taq/hbntq/posts/freedom_convoy.jpg
-category: Interview
+category: Opinion
 tags:
   - essays
   - interview
