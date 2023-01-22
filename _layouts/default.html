@@ -29,14 +29,24 @@
     integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
     crossorigin="anonymous"></script>
 
+    
+
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+
     {% include tracking-header.html %}
 
+<style>
+.loginmodal {z-index: 99999;}
 
+</style>
 
 </head>
 
 <body class="{% if page.url == "/" %} homefirstpage {% endif %}">
-
+{% include networknav.html %}
     <!-- Navbar -->
     <nav id="MagicMenu" style="position: fixed;" class="topnav navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container">
@@ -90,7 +100,7 @@
 
             </div>
             <div>
-                <a target="_blank" class="text-dark font-weight-bold" href="//sites.unigon.net"> HbNtq is a UNIGON site by a user</a>.
+                <a target="_blank" class="text-dark font-weight-bold" href="//sites.unigon.net"> HbNtq is a UNIGON site.</a>
             </div>
         </div>
         </div>
