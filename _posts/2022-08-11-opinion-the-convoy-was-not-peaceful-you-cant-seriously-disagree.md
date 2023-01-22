@@ -18,15 +18,6 @@ tags:
 author: Tallinn
 paginate: true
 ---
-
----
-layout: post
-title: Opinion: The convoy was not peaceful. You can't seriously disagree.
-date: 2022-08-05 16:05
-author: nnillat1
-comments: true
-categories: [Canada, canadian politics, English, featured, freedom convoy, Opinion/editorials, Politics, protest]
-
 <!-- wp:paragraph -->
 <p>The so-called "Freedom Convoy" wasn't for freedom, and it certainly was not a "peaceful protest." Here's a megalist of reasons why.</p>
 <!-- /wp:paragraph -->
