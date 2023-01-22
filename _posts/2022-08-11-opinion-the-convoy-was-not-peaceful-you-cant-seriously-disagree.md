@@ -1,5 +1,5 @@
 ---
-date: 2022-08-05T20:17:10.000Z
+date: 2022-08-11T20:17:10.000Z
 layout: post
 title: The convoy was not peaceful. You can't seriously disagree.
 subtitle: 'But some do.'
